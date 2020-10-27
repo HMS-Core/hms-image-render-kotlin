@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root screenWidth="1080">
+    <Image  src="bj.jpg" />
+    <Var name="var" expression="1"/>
+    <Marquee state="1" showTime="10" color="#aa11ff" deltaAngle="5" marqueeColor="#aa5500" marqueePos="0.3" weight="50" visibility="#var"/>
+</Root>
