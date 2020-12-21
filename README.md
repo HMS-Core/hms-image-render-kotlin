@@ -1,10 +1,9 @@
-## image-render-sample
-
+# HMS ImageKit Sample for Kotlin
 
 ## Table of Contents
 
  * [Introduction](#introduction)
- * [Getting Started](#Getting-Started)
+ * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
  * [Result](#result)
  * [License](#license)
@@ -45,4 +44,3 @@ For details, please refer to [XML Syntax Specifications for Image Render](https:
 ##  License
 
 ImageRenderSample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
