@@ -39,7 +39,7 @@ For details, please refer to [XML Syntax Specifications for Image Render](https:
 
 ## Result
 
-   <img src="./ScreenShot.PNG" width = 30% height = 30%>
+   <img src=https://github.com/HMS-Core/hms-image-render-kotlin/blob/master/render.gif width = 30% height = 30%>
 
 ##  License
 
