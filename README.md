@@ -1,4 +1,6 @@
-# HMS ImageKit Sample for Kotlin
+## HUAWEI Image Kit Render Sample for Kotlin
+
+English | [中文](README_ZH.md)
 
 ## Table of Contents
 
@@ -15,13 +17,13 @@ The Image Render service provides basic and advanced animation effects to help y
 
 2. Provides nine advanced animation effects, bringing more fun to user interactions.
 
-For details, please refer to [XML Syntax Specifications for Image Render](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/xml-introduction-0000001050439245).
+For details, please refer to [XML Syntax Specifications for Image Render](https://developer.huawei.com/consumer/en/doc/development/Media-Guides/xml-introduction-0000001050439245?ha_source=hms1).
 
 ## Getting Started
 1. Check whether the Android studio development environment is ready. Open the sample code project directory with file "build.gradle" in Android Studio. Run TestApp on your divice or simulator which have installed latest Huawei Mobile Service(HMS).
 2. Register a [HUAWEI account](https://developer.huawei.com/consumer/en/).
 3. Create an app and configure the app information in AppGallery Connect. 
-   See details: [HUAWEI Image Service Development Preparation](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/config-agc-0000001050199019)
+   See details: [HUAWEI Image Service Development Preparation](https://developer.huawei.com/consumer/en/doc/development/Media-Guides/config-agc-0000001050199019?ha_source=hms1)
 4. To build this demo, please first import the demo in the Android Studio (3.x+).
 5. Run the sample on your Android device or emulator.
 
@@ -39,7 +41,7 @@ For details, please refer to [XML Syntax Specifications for Image Render](https:
 
 ## Result
 
-   <img src=https://github.com/HMS-Core/hms-image-render-kotlin/blob/master/render.gif width = 30% height = 30%>
+   <img src=render.gif width = 30% height = 30%>
 
 ##  License
 
